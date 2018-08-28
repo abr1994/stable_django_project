@@ -29,7 +29,7 @@ SECRET_KEY = '7fd5^_bgzmq!8!-7zm=b*w3jfgk4bkn!0i+hfx(3mh!$!+pqan'
 DEBUG = True
 
 ALLOWED_HOSTS = ['localhost',
-                fluxmakerspace-test.herokuapp.com]
+                'fluxmakerspace-test.herokuapp.com']
 
 # Application definition
 
